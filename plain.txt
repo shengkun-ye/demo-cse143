@@ -1,6 +1,6 @@
-HOW TO DOWNLOAD ATOM
+HOW TO DOWNLOAD ATOM --recommended
 https://atom.io/
-HOW TO DOWNLOAD VS CODE
+HOW TO DOWNLOAD VS CODE 
 https://code.visualstudio.com/download
 HOW TO GET STARTED WITH git
 https://guides.github.com/activities/hello-world/
