@@ -6,5 +6,7 @@ x = 5
 for y in range(0, x):
     print('Hello!')
 
+z = 4
+
 for y in range(0, x):
-    print('Goodbye!')
+    print('Hello!')
