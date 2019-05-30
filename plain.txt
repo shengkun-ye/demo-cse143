@@ -1,1 +1,6 @@
-this is a plain text file 
+HOW TO DOWNLOAD ATOM
+https://atom.io/
+HOW TO DOWNLOAD VS CODE
+https://code.visualstudio.com/download
+HOW TO GET STARTED WITH git
+https://guides.github.com/activities/hello-world/
